@@ -1,14 +1,14 @@
 # Hi 👋 I am Facundo Gabriel Giuliano
 
-## 💻 Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,java,py,nodejs,django,spring,postgres,mysql,sqlite,mongodb,linux,bash,git,github)](https://skillicons.dev)
-
-
 ## 📧 Contact
 
 * [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/facundo-gabriel-giuliano/)
 * [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30"/>](mailto:facugiuliano10@gmail.com)
+
+
+## 💻 Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,java,py,nodejs,django,spring,postgres,mysql,sqlite,mongodb,linux,bash,git,github)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats:
